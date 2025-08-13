@@ -241,9 +241,9 @@ https://github.com/davidmoten/openapi-to-plantuml
 
 ## Version History
 
-| Date     | Version | Notes                                                |
-|:---------|:-------:|:-----------------------------------------------------|
-| 12/30/22 |   1.0   | Initial Version - Meets Spec                         |
-| 02/22/23 |   1.1   | Add Gantt View                                       |
-| 9/5/23   |  1.11   | Fix failing tests                                    |
-| 5/15/25  |   1.2   | Add RefreshToken, Bump to SDK 36, use local Tasky BE |
+| Date     | Version | Notes                                                   |
+|:---------|:-------:|:--------------------------------------------------------|
+| 12/30/22 |   1.0   | Initial Version - Meets Spec                            |
+| 02/22/23 |   1.1   | Add Gantt View                                          |
+| 9/5/23   |  1.11   | Fix failing tests                                       |
+| 5/15/25  |   1.2   | Add RefreshToken, Bump to SDK 36, use local Tasky BE v2 |
